@@ -1,0 +1,6 @@
+{
+  "name": "ماشین حساب",
+  "description": "اپلیکیشن ماشین حساب زیبا، مدرن و سریع با قابلیت انجام محاسبات روزمره و پیشرفته، تبدیل درصد، تغییر علامت و مشاهده تاریخچه محاسبات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
